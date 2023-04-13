@@ -9,3 +9,7 @@ je to proto protože je to nová funkce a může se stát že vám to toho chat 
 budu se snažit je dělat pravielné ale nevím jak to budu stíhat ale občas výjdou i s alířkem 
 třeba verze 2.0 přinese všechny volitelné aktualizace v sobé ale často to nebude 
 a třeba i tak to nebudou všechny ale verze 1.2.5 bude mít aktualizci nastavení a vhledu přes 2 volitelné aktualizace
+a furt to není dokonalý občas se něco nepovede prostě se to rozbije
+
+# a jak se to bude opravovat
+budu to opravovat já a občas i něco přidám
